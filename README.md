@@ -1,1 +1,1 @@
-# PixelCombats-Live-API
+# PixelCombats Live (Official) - API
